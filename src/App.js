@@ -93,25 +93,7 @@ onReset=()=>{
           </div>
         </div>
       </div>
-      // <div className='container'>
-      //   <h1>Digital Timer</h1>
-      //   <div className='first'>
-        
-      //     <div className='middle'>
-      //       <h3>{right}:{left}</h3>
-      //       <h3>{instatus}</h3>
-      //     </div>
-        
-      //   <div className='second'>
-      //     <button className='play' onClick={this.onToggleStart}><img src={imgurl} alt="playicon"/></button>{outstatus}
-      //     <button className='reset' onClick={this.onReset}><img src="https://assets.ccbp.in/frontend/react-js/reset-icon-img.png" alt="reset icon"/></button>Reset
-      //     <h4>Set Timer Limit</h4>
-      //     <button className='sub' onClick={this.onSub}>-</button>
-      //     <button className='limit'>25</button>
-      //     <button className='add' onClick={this.onAdd}>+</button>
-      //   </div>
-      // </div>
-      // </div>
+     
     )
   }
 }
